@@ -1,4 +1,12 @@
+
 # Unity Factory Pattern Example
+
+## Watch:
+<video src="https://github.com/user-attachments/assets/5e694067-1555-45e2-bcea-a33ce9995a0d"></video>
+
+## UML Diagram
+![FactoryUML](https://github.com/user-attachments/assets/669f622e-a9d1-4de3-bb2a-ac2ae82abfe4)
+
 
 ## What is the Factory Pattern?
 The Factory Pattern is a design pattern that provides a way to create objects without specifying the exact class. It allows subclasses to decide which type of object to instantiate.
