@@ -12,7 +12,7 @@ The Factory Pattern is a design pattern that provides a way to create objects wi
 
 ## Project Structure
 - **FactoryManager**: This class is responsible for managing and registering the different factories used in the game. It ensures that all factories are available and can be accessed as needed.
-- **Factory**: Abstract base class that provides the blueprint for enemy creation.
+- **Factory**: Abstract base class that provides the information for enemy creation.
 - **IEnemy**: This interface defines the basic information for all enemy types. Each enemy type must implement the `Initialize` method to define its behavior.
 - **EnemySpawnManager**: Handles enemy spawning based on user input (mouse click).
 - **WarriorFactory, MagicFactory, ArcherFactory**: These concrete factory classes inherit from the abstract `Factory` class and are responsible for creating specific enemy types.
