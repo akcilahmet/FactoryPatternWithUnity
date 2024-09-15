@@ -5,7 +5,7 @@
 <video src="https://github.com/user-attachments/assets/5e694067-1555-45e2-bcea-a33ce9995a0d"></video>
 
 ## UML Diagram
-![FactoryUML](https://github.com/user-attachments/assets/669f622e-a9d1-4de3-bb2a-ac2ae82abfe4)
+![FactoryPattern](https://github.com/user-attachments/assets/b952825d-ea3f-4f11-b2bb-f873ee35a6a8)
 
 
 ## What is the Factory Pattern?
